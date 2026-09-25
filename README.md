@@ -11,6 +11,11 @@ In this repository documents my progress in learning and practicing C++. Besides
 This section contains fundamental C++ program where I practice basic concepts and functions, as well as how to compile and run a program.
 
 - [Hello World](./fundamentals/hello_world.cpp)
+- [Draw a triangle](./fundamentals/triangle_shape.cpp)
+- [Data Types](./fundamentals/data_types.cpp) 
+- [String Method](./fundamentals/string_method.cpp)
+[Some programs use specific string methods:](./fundamentals/string)
+    - [find() Method](./fundamentals/string/find()_method.cpp)
 
 ## [Projects](./projects)
 
